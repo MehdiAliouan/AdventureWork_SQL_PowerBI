@@ -1,6 +1,5 @@
 ## AdventureWork_SQL_PowerBI 
-##### AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer 
-##### Adventure Works Cycles. Scenarios include Manufacturing, Sales, Purchasing, Product Management, Contact Management, and Human Resources.
+##### AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer, Scenarios include Manufacturing, Sales, Purchasing, Product Management, Contact Management, and Human Resources.
 
 #### - data cleaning and transformation of tables that we need for the report SQL query.
 
